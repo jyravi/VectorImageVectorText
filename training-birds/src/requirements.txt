@@ -1,7 +1,0 @@
-azureml-defaults
-torch
-torchvision
-future
-pillow
-mlflow
-azureml-mlflow
